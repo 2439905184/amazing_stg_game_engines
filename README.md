@@ -1,0 +1,2 @@
+# assome_stg_game_engines
+收集各种stg弹幕游戏专用开发引擎
